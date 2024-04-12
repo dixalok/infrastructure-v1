@@ -1,0 +1,5 @@
+this repo has demo code for creating vpc using various approch, it is for learining.
+Bacis approch of creating a VPC using Terraform
+Using Moduls
+Using terragrunt
+
